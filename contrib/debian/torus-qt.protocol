@@ -1,0 +1,11 @@
+[Protocol]
+exec=torus-qt '%u'
+protocol=torus
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

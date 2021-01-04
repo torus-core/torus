@@ -1,0 +1,3 @@
+contrib/torusd.bash-completion	torusd
+contrib/torus-cli.bash-completion	torus-cli
+contrib/torus-tx.bash-completion	torus-tx

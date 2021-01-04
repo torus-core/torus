@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Torus (testnet)
+Comment=Desktop allet for Torus Cryptocurrency (testnet)
+Comment[de]=Offizieller Client für die Kryptowährung Torus (testnet)
+Exec=torus-qt -testnet %u
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/torus-testnet128.png
+MimeType=x-scheme-handler/torus;
+Categories=Application;Network;

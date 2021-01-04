@@ -1,0 +1,11 @@
+usr/local/bin/torus-qt usr/bin
+share/pixmaps/torus16.png usr/share/pixmaps
+share/pixmaps/torus32.png usr/share/pixmaps
+share/pixmaps/torus128.png usr/share/pixmaps
+share/pixmaps/torus256.png usr/share/pixmaps
+share/pixmaps/torus-testnet32.png usr/share/pixmaps
+share/pixmaps/torus-testnet128.png usr/share/pixmaps
+share/pixmaps/torus-testnet256.png usr/share/pixmaps
+debian/torus-qt.desktop usr/share/applications
+debian/torus-testnet-qt.desktop usr/share/applications
+debian/torus-qt.protocol usr/share/kde4/services/
