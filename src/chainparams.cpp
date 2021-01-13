@@ -79,9 +79,9 @@ public:
         assert(genesis.hashMerkleRoot == uint256S("2d20099ca5b8bd26f9d1f4ca06d6d8779df3baac617814cc82278039ca7a82e3"));
 
         // nodes with support for servicebits filtering should be at the top
-        vSeeds.emplace_back("3.128.150.218");
-        vSeeds.emplace_back("3.13.93.73");
-        vSeeds.emplace_back("3.128.85.98");
+        vSeeds.emplace_back("34.123.152.49");
+        vSeeds.emplace_back("35.185.84.222");
+        vSeeds.emplace_back("35.185.216.187");
 
         base58Prefixes[PUBKEY_ADDRESS] = {0x42}; // T
         base58Prefixes[SCRIPT_ADDRESS] = {0x3c};
